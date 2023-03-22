@@ -1,0 +1,20 @@
+.pass-form {
+    width: 35%;
+    padding: 1em;
+    margin: 0 auto;
+}
+.signs-box form {
+    padding: 1em;
+    max-width: 60%;
+    margin: 0 auto;
+}
+.signs-box input {
+    margin: 1em auto;
+}
+.student-send-div form input, textarea {
+    margin: 1em auto;
+}
+.banner-content > button, .signs-box form button {
+    width: 10em;
+    margin: 1em auto;
+}
